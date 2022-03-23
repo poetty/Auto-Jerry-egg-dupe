@@ -1,4 +1,4 @@
-!w::
+!w:: ; Alt+w to start
 
 Loop
 {
@@ -11,5 +11,5 @@ Loop
 
 }
 
-!e::
+!e:: ;Alt+e to stop
 Pause
